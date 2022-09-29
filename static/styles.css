@@ -727,3 +727,196 @@
     bottom: 12.5%;
 
 }
+
+.pages-two-first-text {
+
+    position: absolute;
+    width: 331px;
+    height: 122px;
+    left: 130px;
+    top: 1865px;
+}
+
+#pages-two-first-text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 61px;
+
+    color: #191A15;
+}
+
+.pages-two-first-p {
+    position: absolute;
+    width: 461px;
+    height: 90px;
+    left: 540px;
+    top: 1879px;
+}
+
+#pages-two-first-p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #A6A6A6;
+}
+
+.get-started {
+    box-sizing: border-box;
+    border: solid;
+    border-color: white;
+    background-color: #54BD95;
+    color: white;
+    width: 162px;
+    border-radius: 70px;
+    padding: 10px;
+    left: 1060px;
+    top: 1894px;
+    position: absolute;
+
+
+}
+
+.get-started a {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFF;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 12px;
+}
+
+.photo-one {
+    position: absolute;
+    width: 364px;
+    height: 430px;
+    left: 130px;
+    top: 2120px;
+
+}
+
+.colobration {
+    position: absolute;
+    width: 282px;
+    height: 30px;
+    left: 130px;
+    top: 2521px;
+}
+
+#colobration {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+    color: #191A15;
+
+}
+
+.colobration-ph {
+    position: absolute;
+    width: 340px;
+    height: 60px;
+    left: 130px;
+    top: 2600px;
+}
+
+#colobration-ph {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #A6A6A6;
+}
+
+.photo-two {
+    position: absolute;
+    width: 364px;
+    height: 430px;
+    left: 500px;
+    top: 2120px;
+}
+
+.Cloud-Storage {
+    position: absolute;
+    width: 208px;
+    height: 30px;
+    left: 500px;
+    top: 2521px;
+}
+
+#Cloud-Storage {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+    color: #191A15;
+}
+
+.Cloud-Storage-ph {
+    position: absolute;
+    width: 340px;
+    height: 60px;
+    left: 500px;
+    top: 2600px;
+}
+
+#Cloud-Storage-ph {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #A6A6A6;
+}
+
+.photo-three {
+    position: absolute;
+    width: 364px;
+    height: 430px;
+    left: 880px;
+    top: 2120px;
+}
+
+.Daily-Analytics {
+    position: absolute;
+    width: 215px;
+    height: 30px;
+    left: 890px;
+    top: 2521px;
+}
+
+#Daily-Analytics {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+    color: #191A15;
+
+}
+
+.Daily-Analytics-ph {
+    position: absolute;
+    width: 340px;
+    height: 60px;
+    left: 890px;
+    top: 2600px;
+}
+
+#Daily-Analytics-ph {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #A6A6A6;
+}
