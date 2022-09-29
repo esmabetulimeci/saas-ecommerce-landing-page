@@ -435,7 +435,7 @@
     position: absolute;
     width: 617px;
     height: 122px;
-    left: 110px;
+    left: 100px;
     top: 1254px;
 }
 
@@ -453,7 +453,7 @@
     position: absolute;
     width: 644px;
     height: 90px;
-    left: 110px;
+    left: 100px;
     top: 1406px;
     margin-top: 30px;
 }
@@ -471,7 +471,7 @@
     position: absolute;
     width: 26px;
     height: 26px;
-    left: 70px;
+    left: 60px;
     top: 1569px;
 
 }
@@ -490,7 +490,7 @@
     position: absolute;
     left: 100px;
     height: 22px;
-    left: 160px;
+    left: 140px;
     top: 1613px;
 
 }
@@ -513,7 +513,7 @@
     position: absolute;
     width: 112px;
     height: 22px;
-    left: 450px;
+    left: 420px;
     top: 1613px;
 }
 
@@ -530,7 +530,7 @@
     position: absolute;
     width: 95px;
     height: 22px;
-    left: 160px;
+    left: 140px;
     top: 1653px;
 
 }
@@ -549,7 +549,7 @@
     position: absolute;
     width: 103px;
     height: 22px;
-    left: 450px;
+    left: 430px;
     top: 1653px;
 }
 
@@ -560,4 +560,170 @@
     font-size: 18px;
     line-height: 22px;
     color: #A6A6A6;
+}
+
+.Publishing {
+    position: absolute;
+    width: 145px;
+    height: 34px;
+    left: 830px;
+    top: 1257px;
+}
+
+#Publishing {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #191A15;
+}
+
+.Publishing-text {
+    position: absolute;
+    width: 428px;
+    height: 90px;
+    left: 830px;
+    top: 1301px;
+}
+
+#Publishing-text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #A6A6A6;
+}
+
+.Publishing-img {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 755px;
+    top: 1270px;
+}
+
+#vector-publish {
+    position: absolute;
+    left: 35%;
+    right: 8.33%;
+    top: 40%;
+    bottom: 12.5%;
+}
+
+.Analytics {
+    position: absolute;
+    width: 130px;
+    height: 34px;
+    left: 830px;
+    top: 1424px;
+}
+
+#Analytics {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #191A15;
+}
+
+.Analytics-text {
+    position: absolute;
+    width: 428px;
+    height: 60px;
+    left: 830px;
+    top: 1468px;
+
+
+}
+
+#Analytics-text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #A6A6A6;
+
+}
+
+.Analytics-img {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 755px;
+    top: 1450px;
+}
+
+#vector-Analytics {
+
+    position: absolute;
+    left: 60%;
+    right: 8.33%;
+    top: 30%;
+    bottom: 50%;
+}
+
+#vector-Analytics-two {
+    position: absolute;
+    left: 40%;
+    right: 11.63%;
+    top: 30%;
+    bottom: 8.35%;
+}
+
+.Engagement {
+    position: absolute;
+    width: 174px;
+    height: 34px;
+    left: 830px;
+    top: 1561px;
+}
+
+#Engagement {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #191A15;
+}
+
+.Engagement-text {
+    position: absolute;
+    width: 428px;
+    height: 60px;
+    left: 830px;
+    top: 1605px;
+
+
+}
+
+#Engagement-text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #A6A6A6;
+}
+
+.Engagement-img {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 755px;
+    top: 1580px;
+}
+
+#vector-Engagement {
+    position: absolute;
+    left: 40%;
+    right: 12.5%;
+    top: 40%;
+    bottom: 12.5%;
+
 }
