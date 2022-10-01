@@ -940,12 +940,46 @@
 
 }
 
-.green-one {
+#green-one {
     position: absolute;
     width: 32px;
     height: 32px;
     left: 130px;
-    top: 2980px;
+    top: 2995px;
+}
+
+#green-two {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 130px;
+    top: 2995px;
+
+
+}
+
+#green-three {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 130px;
+    top: 3057px;
+}
+
+#green-four {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 130px;
+    top: 3119px;
+}
+
+#green-five {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 130px;
+    top: 3181px;
 }
 
 .what-benifit-p-one {
