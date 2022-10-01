@@ -1077,7 +1077,76 @@
     top: 2820px;
 }
 
-.computer-white-one{
-    
+.computer-white-one {
+    box-sizing: border-box;
+    border: solid white;
+    position: absolute;
+    width: 280px;
+    height: 75px;
+    left: 690px;
+    top: 2850px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.05);
+
 }
 
+#computer-pic-in {
+    position: absolute;
+    width: 58px;
+    height: 58px;
+    left: 710px;
+    top: 2860px;
+    background: url(pexels-stefan-stefancik-91227.jpg);
+}
+
+.amanda {
+    position: absolute;
+    width: 116px;
+    height: 19px;
+    left: 780px;
+    top: 2850px;
+}
+
+#amanda {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #191A15;
+}
+
+.expert {
+    position: absolute;
+    width: 122px;
+    height: 15px;
+    left: 780px;
+    top: 2880px;
+}
+
+#expert {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A6A6A6;
+}
+
+#computer-elips {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 915px;
+    top: 2875px;
+
+}
+
+#elips-icon{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 920px;
+    top: 2879px;
+
+}
