@@ -920,3 +920,48 @@
     line-height: 30px;
     color: #A6A6A6;
 }
+
+.what-benifit {
+    position: absolute;
+    width: 429px;
+    height: 122px;
+    left: 130px;
+    top: 2761px;
+}
+
+#what-benifit {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 61px;
+
+    color: #191A15;
+
+}
+
+.green-one {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 130px;
+    top: 2980px;
+}
+
+.what-benifit-p-one {
+    position: absolute;
+    width: 419px;
+    height: 30px;
+    left: 182px;
+    top: 2980px;
+}
+
+#what-benifit-p-one {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #191A15;
+
+}
