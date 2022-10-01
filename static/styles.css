@@ -953,7 +953,7 @@
     width: 32px;
     height: 32px;
     left: 130px;
-    top: 2995px;
+    top: 3060px;
 
 
 }
@@ -963,7 +963,7 @@
     width: 32px;
     height: 32px;
     left: 130px;
-    top: 3057px;
+    top: 3125px;
 }
 
 #green-four {
@@ -971,7 +971,7 @@
     width: 32px;
     height: 32px;
     left: 130px;
-    top: 3119px;
+    top: 3190px;
 }
 
 #green-five {
@@ -979,7 +979,7 @@
     width: 32px;
     height: 32px;
     left: 130px;
-    top: 3181px;
+    top: 3255px;
 }
 
 .what-benifit-p-one {
@@ -999,3 +999,85 @@
     color: #191A15;
 
 }
+
+.what-benifit-p-two {
+    position: absolute;
+    width: 144px;
+    height: 30px;
+    left: 182px;
+    top: 3045px;
+}
+
+#what-benifit-p-two {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #191A15;
+
+}
+
+.what-benifit-p-three {
+    position: absolute;
+    width: 304px;
+    height: 30px;
+    left: 182px;
+    top: 3110px;
+}
+
+#what-benifit-p-three {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #191A15;
+}
+
+.what-benifit-p-four {
+    position: absolute;
+    width: 283px;
+    height: 30px;
+    left: 182px;
+    top: 3175px;
+}
+
+#what-benifit-p-four {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #191A15;
+}
+
+.what-benifit-p-five {
+    position: absolute;
+    width: 185px;
+    height: 30px;
+    left: 182px;
+    top: 3240px;
+}
+
+#what-benifit-p-five {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #191A15;
+}
+
+.computer-pic {
+    position: absolute;
+    width: 450px;
+    height: 529px;
+    left: 780px;
+    top: 2820px;
+}
+
+.computer-white-one{
+    
+}
+
