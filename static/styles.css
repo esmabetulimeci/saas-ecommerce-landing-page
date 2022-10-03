@@ -1413,6 +1413,199 @@
     border-radius: 10px;
 }
 
+.zero {
+    position: absolute;
+    width: 34px;
+    height: 30px;
+    left: 230px;
+    top: 4040px;
+}
+
+#zero {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 30px;
+    color: #191A15;
+
+}
+
+.dolar-one {
+    position: absolute;
+    width: 12px;
+    height: 30px;
+    left: 220px;
+    top: 4040px;
+}
+
+#dolar-one {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #A6A6A6;
+
+}
+
+.two-users {
+    position: absolute;
+    width: 71px;
+    height: 30px;
+    left: 170px;
+    top: 4158px;
+}
+
+#two-users {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #191A15;
+}
+
+.two-files {
+    position: absolute;
+    width: 61px;
+    height: 30px;
+    left: 170px;
+    top: 4210px;
+}
+
+#two-files {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #191A15;
+}
+
+.publish-shares {
+    position: absolute;
+    width: 224px;
+    height: 30px;
+    left: 170px;
+    top: 4262px;
+}
+
+#publish-shares {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #191A15;
+}
+
+.chat-support {
+    position: absolute;
+    width: 117px;
+    height: 30px;
+    left: 170px;
+    top: 4314px;
+}
+
+#chat-support {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #191A15;
+}
+
+.new-income {
+    position: absolute;
+    width: 157px;
+    height: 30px;
+    left: 170px;
+    top: 4366px;
+}
+
+#new-income {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #191A15;
+}
+
+#two-users-one {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 120px;
+    top: 4170px;
+}
+
+#two-files-one {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 120px;
+    top: 4225px;
+}
+
+#publish-shares-one {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 120px;
+    top: 4280px;
+}
+
+#chat-support-one {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 120px;
+    top: 4335px;
+}
+
+#new-income-one {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 120px;
+    top: 4390px;
+}
+
+.free-white-blok {
+    position: absolute;
+    width: 260px;
+    height: 64px;
+    left: 120px;
+    top: 4450px;
+    box-sizing: border-box;
+    border: solid white;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+}
+
+.free-white-blok-p {
+    position: absolute;
+    width: 130px;
+    height: 30px;
+    left: 180px;
+    top: 4450px;
+}
+
+#free-white-blok-p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    color: #54BD95;
+
+
+}
+
 .pro-one {
     position: absolute;
     width: 374px;
@@ -1421,6 +1614,137 @@
     top: 3889px;
     background: #54BD95;
     border-radius: 20px;
+}
+
+.pro-p {
+    position: absolute;
+    width: 49px;
+    height: 36px;
+    left: 163px;
+    top: 10px;
+}
+
+#pro-p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+
+    color: #FFFFFF;
+}
+
+.pro-p-two {
+    position: absolute;
+    width: 210px;
+    height: 54px;
+    left: 82px;
+    top: 70px;
+}
+
+#pro-p-two {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.eight {
+    position: absolute;
+    width: 33px;
+    height: 30px;
+    left: 170px;
+    top: 130px;
+}
+
+#eight {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.dolar-two {
+    position: absolute;
+    width: 12px;
+    height: 30px;
+    left: 140px;
+    top: 153px;
+}
+
+#dolar-two {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.green-div {
+    position: absolute;
+    width: 130px;
+    height: 40px;
+    left: 122px;
+    top: 225px;
+    background: #85DAB9;
+    border-radius: 10px;
+    box-sizing: border-box;
+    border: solid #85DAB9;
+}
+
+.green-div-p {
+    position: absolute;
+    width: 109px;
+    height: 30px;
+    left: 133px;
+    top: 215px;
+}
+
+#green-div-p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 30px;
+    color: #FFFFFF;
+
+}
+
+.white-div {
+    position: absolute;
+    width: 334px;
+    height: 380px;
+    left: 20px;
+    top: 280px;
+    box-sizing: border-box;
+    border: solid #FFF;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.four-users {
+    position: absolute;
+    width: 71px;
+    height: 30px;
+    left: 93px;
+    top: 306px;
+}
+
+#four-users {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #191A15;
+
+
 }
 
 .business-one {
