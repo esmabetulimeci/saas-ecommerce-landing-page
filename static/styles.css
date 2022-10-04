@@ -1893,10 +1893,255 @@
     position: absolute;
     width: 374px;
     height: 644px;
-    left: 880px;
+    left: 870px;
     top: 3899px;
 
     background: #FFFFFF;
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.05);
     border-radius: 20px;
 }
+
+.business-p {
+    position: absolute;
+    width: 132px;
+    height: 36px;
+    left: 130px;
+    top: 3px;
+}
+
+#business-p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    color: #191A15;
+}
+
+.business-p-two {
+    position: absolute;
+    width: 251px;
+    height: 54px;
+    left: 70px;
+    top: 60px;
+}
+
+#business-p-two {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #A6A6A6;
+}
+
+.sixteen {
+    position: absolute;
+    width: 210px;
+    height: 54px;
+    left: 170px;
+    top: 120px;
+}
+
+#sixteen {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 30px;
+    color: #191A15;
+
+}
+
+.dolar-three {
+    position: absolute;
+    width: 12px;
+    height: 30px;
+    left: 150px;
+    top: 130px;
+}
+
+#dolar-three {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #A6A6A6;
+
+}
+
+.bg-three {
+    position: absolute;
+    width: 334px;
+    height: 380px;
+    left: 20px;
+    top: 250px;
+    box-sizing: border-box;
+    border: solid white;
+    background: #F9FAFB;
+    border-radius: 10px;
+}
+
+.allthe {
+    position: absolute;
+    width: 230px;
+    height: 30px;
+    left: 100px;
+    top: 270px;
+}
+
+#allthe {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #191A15;
+
+}
+
+.account {
+    position: absolute;
+    width: 230px;
+    height: 30px;
+    left: 100px;
+    top: 320px;
+}
+
+#account {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #191A15;
+
+}
+
+.single {
+    position: absolute;
+    width: 230px;
+    height: 30px;
+    left: 100px;
+    top: 370px;
+}
+
+#single {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #191A15;
+}
+
+.co-conception {
+    position: absolute;
+    width: 230px;
+    height: 30px;
+    left: 100px;
+    top: 420px;
+}
+
+#co-conception {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #191A15;
+}
+
+.collabration {
+    position: absolute;
+    width: 230px;
+    height: 30px;
+    left: 100px;
+    top: 470px;
+}
+
+#collabration {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #191A15;
+
+}
+
+#allthe-ph {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 60px;
+    top: 290px;
+}
+
+#account-ph {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 60px;
+    top: 340px;
+}
+
+#single-ph {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 60px;
+    top: 390px;
+}
+
+#co-conception-ph {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 60px;
+    top: 440px;
+}
+
+#collabration-ph {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 60px;
+    top: 490px;
+}
+
+.gotobusiness {
+    position: absolute;
+    width: 260px;
+    height: 64px;
+    left: 60px;
+    top: 540px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    box-sizing: border-box;
+    border: solid white;
+}
+
+.gotobusiness-p {
+    position: absolute;
+    width: 130px;
+    height: 30px;
+    left: 120px;
+    top: 540px;
+}
+
+#gotobusiness-p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    color: #54BD95;
+}
+.pages-five{
+    max-width: 1100px;
+}
+
