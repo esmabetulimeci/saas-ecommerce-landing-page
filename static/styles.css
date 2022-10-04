@@ -2141,7 +2141,388 @@
     line-height: 30px;
     color: #54BD95;
 }
-.pages-five{
+
+.pages-five {
     max-width: 1100px;
 }
 
+.footer-pages {
+    width: 100%;
+    height: 1200px;
+    background-color: #161C28;
+    position: absolute;
+    left: 0px;
+    top: 4633px;
+}
+
+.people-are {
+    position: absolute;
+    width: 444px;
+    height: 122px;
+    left: 130px;
+    top: 4763px;
+}
+
+#people-are {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 61px;
+    color: #FFFFFF;
+}
+
+.everything {
+    position: absolute;
+    width: 461px;
+    height: 60px;
+    left: 130px;
+    top: 4955px;
+}
+
+#everything {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #A6A6A6;
+}
+
+#tirnak-one {
+    position: absolute;
+    width: 15px;
+    height: 50px;
+    left: 135px;
+    top: 5050px;
+    background: #D9D9D9;
+    transform: rotate(15deg);
+}
+
+#tirnak-two {
+    position: absolute;
+    width: 15px;
+    height: 50px;
+    left: 158.5px;
+    top: 5050px;
+    background: #D9D9D9;
+    transform: rotate(15deg);
+}
+
+.very-helped {
+    position: absolute;
+    width: 461px;
+    height: 90px;
+    left: 135px;
+    top: 5120px;
+
+}
+
+#very-helped {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #A6A6A6;
+
+}
+
+.aria {
+    position: absolute;
+    width: 128px;
+    height: 30px;
+    left: 135px;
+    top: 5255px;
+}
+
+#aria {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #A6A6A6;
+}
+
+#footer-ph-one {
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 135px;
+    top: 5350px;
+}
+
+#footer-ph-two {
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 221px;
+    top: 5350px;
+}
+
+#footer-ph-three {
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 307px;
+    top: 5350px;
+}
+
+#footer-ph-four {
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 393px;
+    top: 5350px;
+}
+
+#footer-ph-five {
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 479px;
+    top: 5350px;
+}
+
+#play-ph {
+    position: absolute;
+    width: 24px;
+    height: 18px;
+    left: 502px;
+    top: 5373px;
+}
+
+.biccas-p {
+    position: absolute;
+    width: 160px;
+    height: 30px;
+    left: 130px;
+    top: 5500px;
+}
+
+#biccas-p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 30px;
+    color: #54BD95;
+}
+
+.biccas-prg {
+    position: absolute;
+    width: 286px;
+    height: 30px;
+    left: 130px;
+    top: 5581px;
+
+}
+
+#biccas-prg {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #A6A6A6;
+
+}
+
+.enter-your {
+    box-sizing: border-box;
+    position: absolute;
+    width: 410px;
+    height: 60px;
+    left: 130px;
+    top: 5661px;
+    border: 2px solid #A6A6A6;
+    border-radius: 70px;
+}
+
+.enter-your-ph {
+    position: absolute;
+    width: 184px;
+    height: 30px;
+    left: 150px;
+    top: 5656px;
+
+}
+
+#enter-your-ph {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #A6A6A6;
+}
+
+#enter-go {
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    left: 487px;
+    top: 5670px;
+}
+
+#enter-go-one {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 502px;
+    top: 5680px;
+}
+
+#enter-go-two {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 509px;
+    top: 5680px;
+
+}
+
+.biccas-c {
+    position: absolute;
+    width: 425px;
+    height: 30px;
+    left: 130px;
+    top: 5780px;
+}
+
+#biccas-c {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.footer-shadow {
+    position: absolute;
+    width: 540px;
+    height: 588px;
+    left: 690px;
+    top: 4830px;
+
+    background: #222938;
+    border-radius: 20px;
+}
+
+#money-icon {
+    position: absolute;
+    left: 43.95%;
+    right: 44.27%;
+    left: 920px;
+    top: 4850px;
+
+}
+
+.money-icon-p {
+    position: absolute;
+    width: 168px;
+    height: 36px;
+    left: 875px;
+    top: 4912px;
+}
+
+#money-icon-p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+
+.e-mail {
+    position: absolute;
+    width: 51px;
+    height: 22px;
+    left: 757px;
+    top: 4991px;
+}
+
+#e-mail {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.enter-your-email {
+    position: absolute;
+    width: 440px;
+    height: 50px;
+    left: 751px;
+    top: 5050px;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.enter-your-email-p {
+    position: absolute;
+    width: 112px;
+    height: 16px;
+    left: 772px;
+    top: 5053px;
+}
+
+#enter-your-email-p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #A6A6A6;
+}
+
+.message {
+    position: absolute;
+    width: 78px;
+    height: 22px;
+    left: 757px;
+    top: 5105px;
+}
+
+#message {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.you-say {
+    position: absolute;
+    width: 440px;
+    height: 80px;
+    left: 752px;
+    top: 5169px;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.you-say-p {
+    position: absolute;
+    width: 130px;
+    height: 17px;
+    left: 776px;
+    top: 5176px;
+}
+
+#you-say-p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #A6A6A6;
+}
